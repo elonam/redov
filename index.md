@@ -13,7 +13,7 @@
 
 > ### A) Saygı
 >
-> * 1. Üyeler, yönetim ve diğer kullanıcılar birbirlerine fark etmeksizin saygılı olmak zorundadırlar
+> 1. Üyeler, yönetim ve diğer kullanıcılar birbirlerine fark etmeksizin saygılı olmak zorundadırlar
 > >
 > > - Küfür, argo, hakaret gibi söylenimler yasaktır
 > > - Tehdit, korkutma ve kişiyi rahatsız edebilecek davranışlar yasaktır (Kişiyi rahatsız edebilecek davranışlar kişinin şikayet etmesi ile ortaya çıkar)
