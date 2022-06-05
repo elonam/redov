@@ -2,7 +2,7 @@
 
 ## REDOV nedir?
 
-### REDOV topluluğu insanların (kurallar doğrultusunda) özgürce sohbet edebildiği, demokratik bir yönetim biçimi benimseyen [Discord](https://discord.com) sunucusudur
+### REDOV topluluğu insanların (kurallar doğrultusunda) özgürce sohbet edebildiği, demokratik bir yönetim biçimi benimseyen [Discord](https://discord.com  "Discord") sunucusudur
 ### İsteyen herkes sunucuya katılabilir, belirlenen kişiler ise yönetimde söz sahibi olabilmektedir.
 
 ## REDOV AnaYasa
@@ -13,7 +13,7 @@
 
 > ### A) Saygı
 >
-> * Üyeler, yönetim ve diğer kullanıcılar birbirlerine fark etmeksizin saygılı olmak zorundadırlar
+> * 1. Üyeler, yönetim ve diğer kullanıcılar birbirlerine fark etmeksizin saygılı olmak zorundadırlar
 > >
 > > - Küfür, argo, hakaret gibi söylenimler yasaktır
 > > - Tehdit, korkutma ve kişiyi rahatsız edebilecek davranışlar yasaktır (Kişiyi rahatsız edebilecek davranışlar kişinin şikayet etmesi ile ortaya çıkar)
