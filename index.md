@@ -3,6 +3,7 @@
 ## REDOV nedir?
 
 ### REDOV topluluğu insanların (kurallar doğrultusunda) özgürce sohbet edebildiği, demokratik bir yönetim biçimi benimseyen (Discord)[https://discord.com] sunucusudur
+### İsteyen herkes sunucuya katılabilir, belirlenen kişiler ise yönetimde söz sahibi olabilmektedir.
 
 ## REDOV AnaYasa
 
