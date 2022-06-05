@@ -1,7 +1,9 @@
 ## REDOV AnaYasa
 
-### Resmi REDOV topluluğumuzun anayasadıdır.
-
+### Resmi REDOV topluluğumuzun anayasasıdır.
+```diff
++Anayasa değiştirildiğinde eğer topluluğumuza üyeyseniz otomatik olarak kabul etmiş olursunuz Bu nedenle düzenli olarak burayı okumanız önerilir
+```
 
 ### Destek veya iletişim
 
